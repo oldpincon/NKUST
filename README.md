@@ -1,4 +1,4 @@
 # nkust
-c110181148
-this is my java course
+C110181148
+This is my java course
 
