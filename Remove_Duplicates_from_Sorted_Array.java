@@ -28,6 +28,6 @@ public class Remove_Duplicates_from_Sorted_Array {
         }
         Collections.sort(num);
         System.out.println("nums = " + num);
-        System.out.println("Outout:" + firstNum);
+        System.out.println("Output:" + firstNum);
     }
 }
