@@ -12,5 +12,4 @@ public class Class_ex5 {
         Sol.getCurrentStatus();
         System.out.println("I'm ROBINHOOD!!!");
         System.out.println("----------------------------------------------------------------");
-    }
-}
+    }dsaeff
